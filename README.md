@@ -1,1 +1,6 @@
 # pierwszyPushNaGithub
+
+
+Nowy content
+
+# Witamy :)
