@@ -1,6 +1,10 @@
 # pierwszyPushNaGithub
 
+Języki:
+* JS
+* Typescript
 
-Nowy content
-
-# Witamy :)
+Frameworki JS:
+* AngularJS
+* React
+* Angular
